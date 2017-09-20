@@ -1,0 +1,2 @@
+# SSMByMavenModules
+SSM多模块脚手架maven基础项目
